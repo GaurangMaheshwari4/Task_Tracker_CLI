@@ -20,6 +20,7 @@ To set up the project, follow these steps:
 
 1. **Install the required dependencies**:
    - Change directory to src/dist using: 
+   
    ```
    cd src/dist
    ```
