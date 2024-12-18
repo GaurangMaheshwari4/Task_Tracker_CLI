@@ -20,9 +20,11 @@ To set up the project, follow these steps:
 
 1. **Install the required dependencies**:
    - Change directory to src/dist using :
+     
         ```
         cd src/dist
         ```
+        
    - Install the `task_cli-0.1.0-py3-none-any.whl` file using `pip`.
 
    Run the following command in your terminal :
@@ -32,6 +34,7 @@ To set up the project, follow these steps:
 
 2. **Use the Task CLI**:
     - Guide to use this CLI can be found using :
+      
         ```
         task-cli --help
         ```
