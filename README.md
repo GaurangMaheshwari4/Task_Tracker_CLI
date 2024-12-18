@@ -20,7 +20,8 @@ To set up the project, follow these steps:
 
 1. **Install the required dependencies**:
    - Change directory to src/dist using : 
-    <br>
+
+
    ```
    cd src/dist
    ```
@@ -34,7 +35,8 @@ To set up the project, follow these steps:
 
 2. **Use the Task CLI**:
     - Guide to use this CLI can be found using :
-     <br>
+
+    
     ```
     task-cli --help
     ```
