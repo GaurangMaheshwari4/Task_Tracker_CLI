@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "task-cli"
+version = "0.1.0"
+description = "CLI for managing Todo list"
+authors = ["Gaurang Maheshwari <gaurang.ibd@gmail.com>"]
+readme = "README.md"
+include = ["task_cli/db/*"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+typer = "^0.15.1"
+rich = "^13.9.4"
+
+[tool.poetry.scripts]
+task-cli = "task_cli.main:app"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
