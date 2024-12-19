@@ -42,12 +42,17 @@ To set up the project, follow these steps:
 
 ## Screenshots
 
+### Help :
 ![Screenshot 1](assets/img-1.png)
 
+### Add task :
 ![Screenshot 2](assets/img-2.png)
 
+### Update task status :
 ![Screenshot 3](assets/img-3.png)
 
+### List task according to status :
 ![Screenshot 4](assets/img-4.png)
 
+### Delete task :
 ![Screenshot 5](assets/img-5.png)
