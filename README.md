@@ -39,3 +39,15 @@ To set up the project, follow these steps:
         task-cli --help
         ```
 
+
+## Screenshots
+
+![Screenshot 1](assets/img-1.png)
+
+![Screenshot 2](assets/img-2.png)
+
+![Screenshot 3](assets/img-3.png)
+
+![Screenshot 4](assets/img-4.png)
+
+![Screenshot 5](assets/img-5.png)
